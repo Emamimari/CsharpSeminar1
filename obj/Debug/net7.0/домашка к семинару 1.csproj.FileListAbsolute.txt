@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\bin\Debug\net7.0\домашка к семинару 1.exe
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\bin\Debug\net7.0\домашка к семинару 1.deps.json
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\bin\Debug\net7.0\домашка к семинару 1.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\bin\Debug\net7.0\домашка к семинару 1.dll
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\bin\Debug\net7.0\домашка к семинару 1.pdb
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\домашка к семинару 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\домашка к семинару 1.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\домашка к семинару 1.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\домашка к семинару 1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\домашка к семинару 1.dll
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\refint\домашка к семинару 1.dll
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\домашка к семинару 1.pdb
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\домашка к семинару 1.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\домашка к семинару 1\obj\Debug\net7.0\ref\домашка к семинару 1.dll
